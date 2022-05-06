@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{4CF4F96E-77B1-4677-A15D-872C44AB8405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelaCisla", "CelaCisla\CelaCisla.csproj", "{BE53A429-546F-4430-847F-89253790CF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF4F96E-77B1-4677-A15D-872C44AB8405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF4F96E-77B1-4677-A15D-872C44AB8405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF4F96E-77B1-4677-A15D-872C44AB8405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF4F96E-77B1-4677-A15D-872C44AB8405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE53A429-546F-4430-847F-89253790CF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE53A429-546F-4430-847F-89253790CF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE53A429-546F-4430-847F-89253790CF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE53A429-546F-4430-847F-89253790CF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D100C8C-C6B3-4637-BC4E-DC67231C036E}
+	EndGlobalSection
+EndGlobal
